@@ -1,0 +1,15 @@
+{
+  "hash": "82c1a6b81f231ff71bd25f8a75676a6c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\n---\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n## Meet Quarto\n\nNew change in description.\n\nQuarto enables you to weave together content and executable code into a finished document.\n\nBrian is the Head of Algorithms at InfinityQ with a background in both mechanical engineering and applied mathematics. Prior to InfinityQ, he was the Path Planning and Controls Lead at MIT Driverless where he led multiple sub-teams to program a racecar to drive fully autonomously at over 240 km/h. He also worked at Apple Inc. under the Metal Tooling team where he developed an internal iOS app and created simulations of various manufacturing processes. Brian continues to pursue the intersection between engineering and mathematics through solving many different mathematical optimization problems at InfinityQ.\n\nTesting Link [**Air Project**](https://the-air-project.github.io/)\n\n## My own header\n\n![Racecar](images/IMG_6969.jpg)\n\n<!-- This is a comment and will not appear in the rendered site -->\n<!-- <img src=\"images/IMG_6969.jpg\" alt=\"MPRW\" width=\"300\"/> -->\n\n<img src=\"images/CES.jpg\" alt=\"MPRW\" width=\"300\"/>\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

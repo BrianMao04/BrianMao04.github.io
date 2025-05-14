@@ -1,0 +1,31 @@
+---
+title: "Research Publications"
+---
+
+## [**Fast and Modular Autonomy Software for Autonomous Racing Vehicles**](https://ieeexplore.ieee.org/document/10876003)
+
+Autonomous motorsports aim to replicate the human racecar driver with software and sensors. As in traditional motorsports, Autonomous Racing Vehicles (ARVs) are pushed to their handling limits in multi-agent scenarios at extremely high ($\geq 150mph$) speeds. This Operational Design Domain (ODD) presents unique challenges across the autonomy stack. The Indy Autonomous Challenge (IAC) is an international competition aiming to advance autonomous vehicle development through ARV competitions. While far from challenging what a human racecar driver can do, the IAC is pushing the state of the art by facilitating full-sized ARV competitions. This paper details the MIT-Pitt-RW Team's approach to autonomous racing in the IAC. In this work, we present our modular and fast approach to agent detection, motion planning and controls to create an autonomy stack. We also provide analysis of the performance of the software stack in single and multi-agent scenarios for rapid deployment in a fast-paced competition environment. We also cover what did and did not work when deployed on a physical system (*the Dallara AV-21 platform*) and potential improvements to address these shortcomings. Finally, we convey lessons learned and discuss limitations and future directions for improvement.
+
+<img src="images/sense_think_act.png" alt="AV Actions" width="330"/> <img src="images/sensors.png" alt="Sensors" width="330"/>
+
+<p> </p>
+
+## [**Robust Modeling and Controls for Racing on the Edge**](https://arxiv.org/abs/2205.10841)
+
+Race cars are routinely driven to the edge of their handling limits in dynamic scenarios well above 200mph. Similar challenges are posed in autonomous racing, where a software stack, instead of a human driver, interacts within a multi-agent environment. For an Autonomous Racing Vehicle (ARV), operating at the edge of handling limits and acting safely in these dynamic environments is still an unsolved problem. A baseline controls stack for an ARV capable of operating safely up to 140mph. The stack is compared to similar controls and modelling schemes and limitations in the current approach are discussed to present ideas for tackling these shortcomings.
+
+<img src="images/Racecar.png" alt="Racecar" width="280"/> <img src="images/Controller.png" alt="Controller" width="390"/>
+
+<p> </p>
+
+## [**Road Surface Estimation Using Machine Learning**](https://uwspace.uwaterloo.ca/items/8a059e7c-b0cc-4578-a6f9-69a674849929)
+
+Vehicle motion control systems are present on commercial vehicles to improve safety and driving comfort. Many of these control systems could be further improved given accurate online information about the road condition to accommodate for driving under poor weather conditions such as icy roads or heavy rain. However, sensors for direct friction measurement are not present on commercial vehicles due to production costs. Hence, it is beneficial to incorporate an online estimation scheme for road surface classification.
+
+Two fundamentally different machine learning-based methods for road surface classification. The first is an artificial neural network that provides a global function approximation of the underlying dynamics. In particular, Long Short-Term Memory (LSTM) units are used to capture temporal relationships within the training data and to mitigate the vanishing gradient problem. The second is an instance-based learning method referred to as Nadaraya-Watson Kernel Regression, where local function approximations are generated around the input data.
+
+::: {style="text-align: center;"}
+<img src="images/Classification Schemes.png" alt="Classification Schemes" width="600"/>
+:::
+
+<img src="images/Ice.png" alt="Ice" width="220"/> <img src="images/Wet.png" alt="Wet" width="220"/> <img src="images/Dry.png" alt="Dry" width="206"/>

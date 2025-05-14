@@ -1,0 +1,86 @@
+---
+title: "Autonomous Racing"
+---
+
+## Indy Autonomous Challenge 2021
+
+MIT-PITT-RW is a collaboration between graduate and undergraduate students from the Massachusetts Institute of Technology (MIT), University of Pittsburgh, Rochester Institute of Technology (RIT), and the University of Waterloo. The team was formulated to program a race car to drive autonomously around the Indianapolis Motor Speedway as part of the Indy Autonomous Challenge. The team is divided into subteams focused on Perception, State Estimation, Path Planning, Controls, Vehicle Modeling, Integration, Simulation + Infrastructure, as well as Business + Operations. The race occurred on October 23, 2021 with over \$1 Million USD awarded in prizes.
+
+<img src="images/iac_2.avif" alt="MIT Driverless" width="500"/>
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j1LFqUgSyuQ" 
+  title="CTV News Broadcast" frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+```
+
+</iframe>
+
+## Select News Articles
+
+-   [**CBC News Article**](https://www.cbc.ca/news/canada/kitchener-waterloo/autonomous-challenge-indianapolis-motor-speedway-kw-1.6221558)
+
+-   [**CITY News Article**](https://kitchener.citynews.ca/2021/10/22/uw-student-part-of-team-competing-in-worlds-first-self-driving-racecar-event-4543307/)
+
+-   [**Global News Article**](https://globalnews.ca/news/8283560/waterloo-students-indy-autonomous-race-challenge/)
+
+-   [**CTV News Article**](https://www.ctvnews.ca/kitchener/article/university-of-waterloo-students-race-self-driving-car-at-indianapolis-motor-speedway/)
+
+## Autonomous Challenge at CES 2022
+
+MIT-PITT-RW was featured at the Consumer Electronics Show as part of the Autonomous Challenge @CES 2022. The event was focused on a multi-agent passing competition. The race occured on January 7, 2022 with \$200,000 USD awarded in prizes.
+
+<img src="images/iac_3.jpg" alt="CES 2022 Car Operation" width="500"/>
+
+## Texas Motor Speedway 2022
+
+A third race from the Indy Autonomous Challenge occurred on November 11, 2022 at the Texas Motor Speedway.
+
+<img src="images/iac_5.avif" alt="Texas Motor Speedway Medals" width="500"/>
+
+## Autonomous Challenge at CES 2023
+
+The Autonomous Challenge @CES 2023 occured on January 7, 2023. MIT-PITT-RW finished 4th place in the event, which was a multi-agent passing competition between cars, similar to the CES 2022 event.
+
+<img src="images/iac_1.jpg" alt="IAC Vehicle Operation" width="500"/>
+
+## Autodromo Nazionale Monza 2023
+
+The Indy Autonomous Challenge was featured as part of the Milano Monza Motor Show (MIMO 2023) in Monza, Italy throughout June 16-18, 2023.
+
+<img src="images/iac_6.jpg" alt="IAC Computer Operation" width="500"/>
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1B__Owjsy1M" title="
+CTV News Broadcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+```
+
+</iframe>
+
+## Autonomous Challenge at CES 2024
+
+I was no longer able to compete in the Indy Autonomous Challenge as I had graduated the year prior and was no longer a student. However, the competition organizers invited me back as a booth presenter for the competition held at CES 2024.
+
+<img src="images/iac_7.jfif" alt="CES 2024 Booth Presenter" width="500"/>
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rR3AvIFCkQA" title="
+CTV News Broadcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+```
+
+</iframe>
+
+## University of Waterloo Articles
+
+-   [**Speeding Into History**](https://uwaterloo.ca/news/speeding-history)
+
+-   [**Overcoming History**](https://uwaterloo.ca/news/overcoming-adversity)
+
+-   [**Making a Comeback**](https://uwaterloo.ca/news/making-comeback)
+
+-   [**Clocking a Personal Best**](https://uwaterloo.ca/news/clocking-personal-best)
+
+-   [**Autonomous Racing Team Achieves Personal Best in Italian Race**](https://uwaterloo.ca/news/mathematics/autonomous-racing-team-achieves-personal-best-italian-race)
+
+<img src="images/iac_4.avif" alt="Speeding Into History Waterloo Article" width="800"/>

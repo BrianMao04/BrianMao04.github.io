@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "9e4eeb9f"
+  },
+  "about.qmd": {
+    "about.html": "75117584"
+  },
+  "about2.qmd": {
+    "about2.html": "f010f13e"
+  },
+  "conference_presentations.qmd": {
+    "conference_presentations.html": "91f3e4d9"
+  },
+  "air_project.qmd": {
+    "air_project.html": "a45fdfab"
+  },
+  "mit_driverless.qmd": {
+    "mit_driverless.html": "baf34b05"
+  },
+  "research_publications.qmd": {
+    "research_publications.html": "5731c4fc"
+  },
+  "autonomous_racing.qmd": {
+    "autonomous_racing.html": "4287ec28"
+  }
+}

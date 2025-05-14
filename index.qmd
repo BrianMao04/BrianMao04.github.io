@@ -1,0 +1,102 @@
+---
+title: "Bio"
+format: html
+editor: visual
+---
+
+::: {style="text-align: center;"}
+<img src="images/headshot.jpg" alt="Brian Mao" width="200"/>
+:::
+
+Brian is the Head of Algorithms at InfinityQ with a background in both mechanical engineering and applied mathematics. Prior to InfinityQ, he was the Path Planning and Controls Lead at MIT Driverless where he led multiple sub-teams to program a racecar to drive fully autonomously at over 240 km/h.He also worked at Apple Inc. under the Metal Tooling team where he developed an internal iOS app and created simulations of various manufacturing processes. Brian continues to pursue the intersection between engineering and mathematics through solving many different mathematical optimization problems at InfinityQ.
+
+## Work Experience
+
+<a href="https://www.infinityq.tech/" target="_blank">
+  <img src="images/infinityq-logo3.png" alt="InfinityQ" width="200">
+</a>
+
+-   **InfinityQ Technology Inc** (Montreal, Quebec)
+
+    -   Head of Algorithms \[Dec 2023 - Present\]
+
+    -   Mathematical Algorithms Developer \[Jul 2023 - Nov 2023\]
+    
+<a href="https://aerovect.com/home" target="_blank">
+  <img src="images/aerovect_logo.png" alt="AeroVect" width="200">
+</a>
+
+-   **AeroVect Technologies Inc** (San Francisco, California)
+
+    -   Autonomy Software Developer \[Sep 2022 - Dec 2022\]
+
+        <p> </p>
+
+<a href="https://electranstech.com/" target="_blank">
+  <img src="images/electrans_logo.png" alt="Electrans" width="200">
+</a>
+
+-   **Electrans Technologies Ltd** (Oakville, Ontario)
+
+    -   Electric Vehicle Researcher \[Jan 2022 - Apr 2022\]
+
+        <p> </p>
+        
+<a href="https://www.apple.com/" target="_blank">
+  <img src="images/apple_logo.png" alt="Apple" width="200">
+</a>
+
+-   **Apple Inc** (Cupertino, California):
+
+    -   Metal Tooling Engineering \[Jan 2019 - Aug 2019\]
+
+        <p> </p>
+        
+<a href="https://www.crystalclaire.com/" target="_blank">
+  <img src="images/crystal_claire_cosmetics_logo.png" alt="Crystal Claire Cosmetics" width="200">
+</a>
+
+-   **Crystal Claire Cosmetics** (Toronto, Ontario):
+
+    -   Automation Engineering \[May 2018 - Aug 2018\]
+
+        <p> </p>
+
+<a href="https://www.ansys.com/" target="_blank">
+  <img src="images/ansys_logo.png" alt="Ansys" width="200">
+</a>
+
+-   **Ansys Inc** (Waterloo, Ontario):
+
+    -   Simulation Software Tester \[Sep 2017 - Dec 2017\]
+
+        <p> </p>
+
+<a href="https://hexagon.com/products/fti" target="_blank">
+  <img src="images/forming_technologies_logo.jpg" alt="Forming Technologies" width="200">
+</a>
+
+-   **Forming Technologies Inc** (Burlington, Ontario):
+
+    -   QA Developer \[Jan 2017 - Apr 2017\]
+
+<p> </p>
+
+## Education
+<a href="https://uwaterloo.ca/math/" target="_blank">
+  <img src="images/waterloo_mathematics_logo.avif" alt="Waterloo Mathematics" width="300">
+</a>
+
+-   **University of Waterloo**: Master's in Applied Mathematics \[Sep 2020 - Jan 2023\]
+    -   Thesis: Road Surface Estimation using Machine Learning
+<p> </p>
+
+<a href="https://uwaterloo.ca/engineering/" target="_blank">
+  <img src="images/waterloo_engineering_logo.avif" alt="Waterloo Engineering" width="300">
+</a>
+
+-   **Univeristy of Waterloo**: Bachelor's in Mechanical Engineering \[Sep 2015 - Apr 2020\]
+    -   Mathematics Minor
+    -   Graduation with Distinction - Dean's Honours List
+
+
