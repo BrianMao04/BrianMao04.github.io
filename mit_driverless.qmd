@@ -2,22 +2,30 @@
 title: "Autonomous Racing"
 ---
 
-## Indy Autonomous Challenge 2021
+## [**Indy Autonomous Challenge (2021)**](https://www.youtube.com/watch?v=Olp9rtwkXx4)
 
-MIT-PITT-RW is a collaboration between graduate and undergraduate students from the Massachusetts Institute of Technology (MIT), University of Pittsburgh, Rochester Institute of Technology (RIT), and the University of Waterloo. The team was formulated to program a race car to drive autonomously around the Indianapolis Motor Speedway as part of the Indy Autonomous Challenge. The team is divided into subteams focused on Perception, State Estimation, Path Planning, Controls, Vehicle Modeling, Integration, Simulation + Infrastructure, as well as Business + Operations. The race occurred on October 23, 2021 with over \$1 Million USD awarded in prizes.
+MIT-PITT-RW is a collaboration between graduate and undergraduate students from the Massachusetts Institute of Technology (MIT), University of Pittsburgh, Rochester Institute of Technology (RIT), and the University of Waterloo. The team was formulated to program a race car to drive autonomously around the Indianapolis Motor Speedway as part of the Indy Autonomous Challenge. The team is divided into subteams focused on Perception, State Estimation, Path Planning + Controls + Vehicle Modeling, Integration, Simulation + Infrastructure, as well as Business + Operations. The inaugural race occurred on October 23, 2021 with over \$1 Million USD awarded in prizes.
 
-<img src="images/iac_2.avif" alt="MIT Driverless" width="500"/>
+::: {style="text-align: center;"}
+<img src="images/iac_2.avif" alt="MIT Driverless" width="70%/"/>
+:::
+
 
 ```{=html}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j1LFqUgSyuQ" 
-  title="CTV News Broadcast" frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
+<div style="position: relative; width: 100%; padding-bottom: 50.5%; margin: auto; height: 0;">
+  <iframe
+    src="https://www.youtube.com/embed/j1LFqUgSyuQ"
+    title="CTV News Broadcast"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 ```
-
 </iframe>
 
-## Select News Articles
+### Select News Articles
 
 -   [**CBC News Article**](https://www.cbc.ca/news/canada/kitchener-waterloo/autonomous-challenge-indianapolis-motor-speedway-kw-1.6221558)
 
@@ -27,51 +35,77 @@ MIT-PITT-RW is a collaboration between graduate and undergraduate students from 
 
 -   [**CTV News Article**](https://www.ctvnews.ca/kitchener/article/university-of-waterloo-students-race-self-driving-car-at-indianapolis-motor-speedway/)
 
-## Autonomous Challenge at CES 2022
+<p> </p>
 
-MIT-PITT-RW was featured at the Consumer Electronics Show as part of the Autonomous Challenge @CES 2022. The event was focused on a multi-agent passing competition. The race occured on January 7, 2022 with \$200,000 USD awarded in prizes.
+## [**Autonomous Challenge at CES (2022)**](https://www.youtube.com/watch?v=ws1lxTBb13o)
 
-<img src="images/iac_3.jpg" alt="CES 2022 Car Operation" width="500"/>
+MIT-PITT-RW was featured at the Consumer Electronics Show as part of the Autonomous Challenge @CES 2022. The event was focused on a multi-agent passing competition. It occurred on January 7, 2022 with \$200,000 USD awarded in prizes.
 
-## Texas Motor Speedway 2022
+<img src="images/iac_3.jpg" alt="CES 2022 Car Operation" width="80%/"/>
 
-A third race from the Indy Autonomous Challenge occurred on November 11, 2022 at the Texas Motor Speedway.
+<p> </p>
 
-<img src="images/iac_5.avif" alt="Texas Motor Speedway Medals" width="500"/>
+## [**Indy Autonomous Challenge at Texas Motor Speedway (2022)**](https://www.youtube.com/watch?v=hw6DMAiD9cU)
 
-## Autonomous Challenge at CES 2023
+A third race from the Indy Autonomous Challenge occurred on November 11, 2022 at the Texas Motor Speedway. Many new members were trained and onboarded in preparation for this event.
+
+<img src="images/iac_5.avif" alt="Texas Motor Speedway Medals" width="80%/"/>
+
+<p> </p>
+
+## [**Autonomous Challenge at CES (2023)**](https://www.youtube.com/watch?v=T4jyFiyJ7Mg)
 
 The Autonomous Challenge @CES 2023 occured on January 7, 2023. MIT-PITT-RW finished 4th place in the event, which was a multi-agent passing competition between cars, similar to the CES 2022 event.
 
-<img src="images/iac_1.jpg" alt="IAC Vehicle Operation" width="500"/>
+<img src="images/iac_1.jpg" alt="IAC Vehicle Operation" width="80%/"/>
 
-## Autodromo Nazionale Monza 2023
+<p> </p>
 
-The Indy Autonomous Challenge was featured as part of the Milano Monza Motor Show (MIMO 2023) in Monza, Italy throughout June 16-18, 2023.
+## [**Autodromo Nazionale Monza (2023)**](https://www.milanomonza.com/en/indy-autonomous-challenge)
 
-<img src="images/iac_6.jpg" alt="IAC Computer Operation" width="500"/>
+The Indy Autonomous Challenge was featured as part of the Milano Monza Motor Show (MIMO 2023) in Monza, Italy throughout June 16-18, 2023. This was the first race that occurred outside of the US.
 
 ```{=html}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1B__Owjsy1M" title="
-CTV News Broadcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div style="position: relative; width: 100%; padding-bottom: 50.5%; margin: auto; height: 0;">
+  <iframe
+    src="https://www.youtube.com/embed/1B__Owjsy1M"
+    title="Waterloo Monza Promotional Video"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 ```
+</iframe>
+
+<p> </p>
+
+## [**Autonomous Challenge at CES (2024)**](https://www.youtube.com/watch?v=KW_L29vO_Ng&t=6s)
+
+Brian retired from participating as a competitor in the Indy Autonomous Challenge as he had graduated in 2023 and was no longer a student. However, he was invited back by the competition organizers to volunteer as a booth presenter for the competition held at CES 2024.
 
 </iframe>
 
-## Autonomous Challenge at CES 2024
-
-I was no longer able to compete in the Indy Autonomous Challenge as I had graduated the year prior and was no longer a student. However, the competition organizers invited me back as a booth presenter for the competition held at CES 2024.
-
-<img src="images/iac_7.jfif" alt="CES 2024 Booth Presenter" width="500"/>
-
 ```{=html}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rR3AvIFCkQA" title="
-CTV News Broadcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div style="position: relative; width: 100%; padding-bottom: 50.5%; margin: auto; height: 0;">
+  <iframe
+    src="https://www.youtube.com/embed/rR3AvIFCkQA"
+    title="Romanian News Report"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 ```
-
 </iframe>
 
-## University of Waterloo Articles
+<p> </p>
+
+## **University of Waterloo Articles (2021 - 2023)**
+
+------------------------------------------------------------------------
 
 -   [**Speeding Into History**](https://uwaterloo.ca/news/speeding-history)
 
@@ -83,4 +117,4 @@ CTV News Broadcast" frameborder="0" allow="accelerometer; autoplay; clipboard-wr
 
 -   [**Autonomous Racing Team Achieves Personal Best in Italian Race**](https://uwaterloo.ca/news/mathematics/autonomous-racing-team-achieves-personal-best-italian-race)
 
-<img src="images/iac_4.avif" alt="Speeding Into History Waterloo Article" width="800"/>
+<img src="images/iac_4.avif" alt="Speeding Into History Waterloo Article" width="90%/"/>

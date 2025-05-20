@@ -8,16 +8,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - mit_driverless.qmd
       - conference_presentations.qmd
       - research_publications.qmd
+      - mit_driverless.qmd
       - air_project.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - minty
       - brand
+    linkcolor: blue
     css: styles.css
     toc: true
 

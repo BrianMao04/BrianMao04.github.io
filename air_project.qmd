@@ -1,19 +1,28 @@
 ---
-title: "AIR - Automatic Inhalation Resuscitator"
+title: "AIR Project"
 ---
 
 ::: {style="text-align: center;"}
-<a href="https://uwaterloo.ca/news/students-build-ventilator-could-be-used-covid-19-response" target="_blank"> <img src="images/Waterloo Website Article.PNG" alt="Waterloo Air Project Article" width="800"/> </a>
+<a href="https://uwaterloo.ca/news/students-build-ventilator-could-be-used-covid-19-response" target="_blank"> <img src="images/Waterloo Website Article.PNG" alt="Waterloo Air Project Article" width="90%/"/> </a>
 :::
 
 A bag valve mask is a device used by paramedics to provide ventilation for patients who are not breathing adequately, or at all. It has been shown there are inconsistent pumping rates between different trained medical professionals. This leads to a consistent failure to meet specific volume requirements. The Automatic Inhalation Resuscitator (AIR) is a device that is compact, inexpensive, and capable of delivering consistent breaths to a patient through bag valve mask compressions. The objective is to reduce the amount of medical attention and expertise required to operate a bag valve mask.
 
 ```{=html}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-ippT9bnYs" title="
-AIR: An Inexpensive Mechanical Ventilator Alternative" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<div style="position: relative; width: 80%; padding-bottom: 50.5%; margin: auto; height: 0;">
+  <iframe
+    src="https://www.youtube.com/embed/Q-ippT9bnYs"
+    title="AIR: An Inexpensive Mechanical Ventilator Alternative"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 ```
-
 </iframe>
+
+<p> </p>
 
 ## Applications
 
@@ -44,9 +53,9 @@ AIR: An Inexpensive Mechanical Ventilator Alternative" frameborder="0" allow="ac
 ## Additional Images
 
 ::: {style="text-align: center;"}
-<img src="images/poster_final.png" alt="Air Project Poster" width="800"/>
+<img src="images/poster_final.png" alt="Air Project Poster" width="90%/"/>
 
-<img src="images/biotec_conference.jfif" alt="UW Biotec Conference 2019" width="800"/>
+<img src="images/biotec_conference.jfif" alt="UW Biotec Conference 2019" width="90%/"/>
 
 <figcaption><em>UW BioTEC Conference 2019</em></figcaption>
 :::

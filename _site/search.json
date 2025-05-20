@@ -2,51 +2,51 @@
   {
     "objectID": "research_publications.html",
     "href": "research_publications.html",
-    "title": "Research Publications",
+    "title": "Research",
     "section": "",
     "text": "Autonomous motorsports aim to replicate the human racecar driver with software and sensors. As in traditional motorsports, Autonomous Racing Vehicles (ARVs) are pushed to their handling limits in multi-agent scenarios at extremely high (\\(\\geq 150mph\\)) speeds. This Operational Design Domain (ODD) presents unique challenges across the autonomy stack. The Indy Autonomous Challenge (IAC) is an international competition aiming to advance autonomous vehicle development through ARV competitions. While far from challenging what a human racecar driver can do, the IAC is pushing the state of the art by facilitating full-sized ARV competitions. This paper details the MIT-Pitt-RW Team’s approach to autonomous racing in the IAC. In this work, we present our modular and fast approach to agent detection, motion planning and controls to create an autonomy stack. We also provide analysis of the performance of the software stack in single and multi-agent scenarios for rapid deployment in a fast-paced competition environment. We also cover what did and did not work when deployed on a physical system (the Dallara AV-21 platform) and potential improvements to address these shortcomings. Finally, we convey lessons learned and discuss limitations and future directions for improvement."
   },
   {
     "objectID": "research_publications.html#fast-and-modular-autonomy-software-for-autonomous-racing-vehicles",
     "href": "research_publications.html#fast-and-modular-autonomy-software-for-autonomous-racing-vehicles",
-    "title": "Research Publications",
+    "title": "Research",
     "section": "",
     "text": "Autonomous motorsports aim to replicate the human racecar driver with software and sensors. As in traditional motorsports, Autonomous Racing Vehicles (ARVs) are pushed to their handling limits in multi-agent scenarios at extremely high (\\(\\geq 150mph\\)) speeds. This Operational Design Domain (ODD) presents unique challenges across the autonomy stack. The Indy Autonomous Challenge (IAC) is an international competition aiming to advance autonomous vehicle development through ARV competitions. While far from challenging what a human racecar driver can do, the IAC is pushing the state of the art by facilitating full-sized ARV competitions. This paper details the MIT-Pitt-RW Team’s approach to autonomous racing in the IAC. In this work, we present our modular and fast approach to agent detection, motion planning and controls to create an autonomy stack. We also provide analysis of the performance of the software stack in single and multi-agent scenarios for rapid deployment in a fast-paced competition environment. We also cover what did and did not work when deployed on a physical system (the Dallara AV-21 platform) and potential improvements to address these shortcomings. Finally, we convey lessons learned and discuss limitations and future directions for improvement."
   },
   {
     "objectID": "research_publications.html#robust-modeling-and-controls-for-racing-on-the-edge",
     "href": "research_publications.html#robust-modeling-and-controls-for-racing-on-the-edge",
-    "title": "Research Publications",
+    "title": "Research",
     "section": "Robust Modeling and Controls for Racing on the Edge",
     "text": "Robust Modeling and Controls for Racing on the Edge\nRace cars are routinely driven to the edge of their handling limits in dynamic scenarios well above 200mph. Similar challenges are posed in autonomous racing, where a software stack, instead of a human driver, interacts within a multi-agent environment. For an Autonomous Racing Vehicle (ARV), operating at the edge of handling limits and acting safely in these dynamic environments is still an unsolved problem. A baseline controls stack for an ARV capable of operating safely up to 140mph. The stack is compared to similar controls and modelling schemes and limitations in the current approach are discussed to present ideas for tackling these shortcomings."
   },
   {
     "objectID": "research_publications.html#road-surface-estimation-using-machine-learning",
     "href": "research_publications.html#road-surface-estimation-using-machine-learning",
-    "title": "Research Publications",
+    "title": "Research",
     "section": "Road Surface Estimation Using Machine Learning",
     "text": "Road Surface Estimation Using Machine Learning\nVehicle motion control systems are present on commercial vehicles to improve safety and driving comfort. Many of these control systems could be further improved given accurate online information about the road condition to accommodate for driving under poor weather conditions such as icy roads or heavy rain. However, sensors for direct friction measurement are not present on commercial vehicles due to production costs. Hence, it is beneficial to incorporate an online estimation scheme for road surface classification.\nTwo fundamentally different machine learning-based methods for road surface classification. The first is an artificial neural network that provides a global function approximation of the underlying dynamics. In particular, Long Short-Term Memory (LSTM) units are used to capture temporal relationships within the training data and to mitigate the vanishing gradient problem. The second is an instance-based learning method referred to as Nadaraya-Watson Kernel Regression, where local function approximations are generated around the input data."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Bio",
+    "title": "Introduction",
     "section": "",
-    "text": "Brian is the Head of Algorithms at InfinityQ with a background in both mechanical engineering and applied mathematics. Prior to InfinityQ, he was the Path Planning and Controls Lead at MIT Driverless where he led multiple sub-teams to program a racecar to drive fully autonomously at over 240 km/h.He also worked at Apple Inc. under the Metal Tooling team where he developed an internal iOS app and created simulations of various manufacturing processes. Brian continues to pursue the intersection between engineering and mathematics through solving many different mathematical optimization problems at InfinityQ."
+    "text": "Brian possesses a Master’s in Applied Mathematics and Bachelor’s in Mechanical Engineering from the University of Waterloo.\nIn his most recent position, he was the Head of Algorithms at InfinityQ Technology Inc, which was a startup focused on developing quantum-inspired solutions to solve mathematical optimization problems. In this role, he led a team of mathematicians and engineers to consult with clients and develop customized solutions throughout various application areas including transportation, manufacturing supply chain, computational chemistry, energy grid management, and finance. In addition, the Algorithms Team actively conducted research to improve the performance of an internal proprietary optimization solver. Several substantial discoveries and results have also been presented at various academic conferences.\nPrior to InfinityQ, he was the Path Planning and Controls Lead at MIT Driverless, where he led multiple sub-teams to program a racecar to drive fully autonomously at over 240 km/h. He also worked at Apple Inc under the Metal Tooling team where he developed an internal iOS app and created simulations of various manufacturing processes. Overall, Brian has acquired a wide range of experiences across various disciplines of engineering, mathematics, and computer science."
   },
   {
     "objectID": "index.html#work-experience",
     "href": "index.html#work-experience",
-    "title": "Bio",
+    "title": "Introduction",
     "section": "Work Experience",
-    "text": "Work Experience\n  \n\nInfinityQ Technology Inc (Montreal, Quebec)\n\nHead of Algorithms [Dec 2023 - Present]\nMathematical Algorithms Developer [Jul 2023 - Nov 2023]\n\n\n  \n\nAeroVect Technologies Inc (San Francisco, California)\n\nAutonomy Software Developer [Sep 2022 - Dec 2022]\n\n \n\n\n\n  \n\nElectrans Technologies Ltd (Oakville, Ontario)\n\nElectric Vehicle Researcher [Jan 2022 - Apr 2022]\n\n \n\n\n\n  \n\nApple Inc (Cupertino, California):\n\nMetal Tooling Engineering [Jan 2019 - Aug 2019]\n\n \n\n\n\n  \n\nCrystal Claire Cosmetics (Toronto, Ontario):\n\nAutomation Engineering [May 2018 - Aug 2018]\n\n \n\n\n\n  \n\nAnsys Inc (Waterloo, Ontario):\n\nSimulation Software Tester [Sep 2017 - Dec 2017]\n\n \n\n\n\n  \n\nForming Technologies Inc (Burlington, Ontario):\n\nQA Developer [Jan 2017 - Apr 2017]"
+    "text": "Work Experience\n\n  \n\nInfinityQ Technology Inc (Montreal, Quebec)\n\nHead of Algorithms [Dec 2023 - May 2025]\nMathematical Algorithms Developer [Jul 2023 - Nov 2023]\n\n\n  \n\nAeroVect Technologies Inc (San Francisco, California)\n\nAutonomy Software Developer [Sep 2022 - Dec 2022]\n\n \n\n\n\n  \n\nElectrans Technologies Ltd (Oakville, Ontario)\n\nElectric Vehicle Researcher [Jan 2022 - Apr 2022]\n\n \n\n\n\n  \n\nApple Inc (Cupertino, California):\n\nMetal Tooling Engineering [Jan 2019 - Aug 2019]\n\n \n\n\n\n  \n\nCrystal Claire Cosmetics (Toronto, Ontario):\n\nAutomation Engineering [May 2018 - Aug 2018]\n\n \n\n\n\n  \n\nAnsys Inc (Waterloo, Ontario):\n\nSimulation Software Tester [Sep 2017 - Dec 2017]\n\n \n\n\n\n  \n\nForming Technologies Inc (Burlington, Ontario):\n\nQA Developer [Jan 2017 - Apr 2017]"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Bio",
+    "title": "Introduction",
     "section": "Education",
-    "text": "Education\n  \n\nUniversity of Waterloo: Master’s in Applied Mathematics [Sep 2020 - Jan 2023]\n\nThesis: Road Surface Estimation using Machine Learning\n\n \n\n\n\n  \n\nUniveristy of Waterloo: Bachelor’s in Mechanical Engineering [Sep 2015 - Apr 2020]\n\nMathematics Minor\nGraduation with Distinction - Dean’s Honours List"
+    "text": "Education\n\n  \n\nUniversity of Waterloo: Master’s in Applied Mathematics [Sep 2020 - Jan 2023]\n\nThesis: Road Surface Estimation using Machine Learning\n\n \n\n\n\n  \n\nUniveristy of Waterloo: Bachelor’s in Mechanical Engineering [Sep 2015 - Apr 2020]\n\nMathematics Minor\nGraduation with Distinction - Dean’s Honours List"
   },
   {
     "objectID": "autonomous_racing.html",
@@ -107,127 +107,127 @@
   {
     "objectID": "air_project.html",
     "href": "air_project.html",
-    "title": "AIR - Automatic Inhalation Resuscitator",
+    "title": "AIR Project",
     "section": "",
     "text": "A bag valve mask is a device used by paramedics to provide ventilation for patients who are not breathing adequately, or at all. It has been shown there are inconsistent pumping rates between different trained medical professionals. This leads to a consistent failure to meet specific volume requirements. The Automatic Inhalation Resuscitator (AIR) is a device that is compact, inexpensive, and capable of delivering consistent breaths to a patient through bag valve mask compressions. The objective is to reduce the amount of medical attention and expertise required to operate a bag valve mask."
   },
   {
     "objectID": "air_project.html#applications",
     "href": "air_project.html#applications",
-    "title": "AIR - Automatic Inhalation Resuscitator",
+    "title": "AIR Project",
     "section": "Applications",
     "text": "Applications\n\nThis device could act as a low cost alternative to a traditional ventilator to alleviate ventilator shortages caused during the peak of the COVID-19 pandemic. The final design only requires a 3D printer and laser cutter for quick and simple fabrication.\nFirst responders work tirelessly to ventilate a patient and keep them breathing until they return to a hospital. These patients often incur other serious injuries that require attention. AIR could be used to reallocate a paramedic’s set of hands to treat these injuries for improved patient care.\nFamily members are often trained to perform manual ventilation using bag valve mask compressions in underdeveloped countries. As full size modern ventilators are not easily accessible in these locations, one may be forced to perform this resuscitation for several hours. Inconsistencies in breath parameters become even more significant when operated by an inexperienced person for a prolonged period."
   },
   {
     "objectID": "air_project.html#awards",
     "href": "air_project.html#awards",
-    "title": "AIR - Automatic Inhalation Resuscitator",
+    "title": "AIR Project",
     "section": "Awards",
     "text": "Awards\n\nApple Best Overall Presentation Quality Award\nBaylis Medical Capstone Design Award"
   },
   {
     "objectID": "air_project.html#links",
     "href": "air_project.html#links",
-    "title": "AIR - Automatic Inhalation Resuscitator",
+    "title": "AIR Project",
     "section": "Links",
     "text": "Links\n\nAir Website\nCTV News Feature\nAirWare\nWaterloo Stories Article\nWaterloo MME Department Article"
   },
   {
     "objectID": "air_project.html#additional-images",
     "href": "air_project.html#additional-images",
-    "title": "AIR - Automatic Inhalation Resuscitator",
+    "title": "AIR Project",
     "section": "Additional Images",
     "text": "Additional Images\n\n\n\n\nUW BioTEC Conference 2019"
   },
   {
     "objectID": "conference_presentations.html",
     "href": "conference_presentations.html",
-    "title": "Conference Presentations",
+    "title": "Conferences",
     "section": "",
-    "text": "TitanQ, a Quantum-Inspired Approach for Solving NP-Hard Optimization Problems\nThis talk introduces InfinityQ’s TitanQ platform, a quantum-inspired approach for solving NP-Hard optimization problems. TitanQ leverages probabilistic Ising Machines, including techniques like Boltzmann Machines, to scale beyond 400,000 variables for mixed integer quadratic optimization. We will showcase its advantages through industrial and some academic applications. In finance, TitanQ achieves &gt;1000x speedup compared to Gurobi in Mixed Integer Quadratically Constrained Quadratic Problems (MIQCQP) for index tracking. In logistics, it solves constrained clustering problems of &gt;20,000 variables 100-1000x faster than Gurobi. Additionally, we present advancements in higher order binary optimization with TitanQ, achieving superior scaling (\\(1.25^N\\)) in the Low Autocorrelation Binary Sequences Problem, a notable academic challenge. These results highlight TitanQ’s industrial and academic breakthroughs."
+    "text": "Solving the Low Autocorrelation Binary Sequences (LABS) Problem using Quantum-Inspired Techniques\nThe Low Autocorrelation Binary Sequences (LABS) problem, also known as the Bernasconi model in statistical physics, is a classically intractable problem with many practical applications such as communications engineering, radar and sonar. The complexity of the LABS problem grows rapidly with optimal solutions only known for N≤66. In this work, a novel probabilistic quantum-inspired approach for this problem was formulated and solved. The Metropolis Hastings sampling algorithm was used in conjunction with Parallel Tempering facilitating exploration and exploitation of the state space. This work represents the first demonstration of a GPU accelerated solution to the LABS problem, creating a 1500% improvement in speed over a CPU only version. Low-level system design optimizations such as dynamic mixed precision allowed full device utilization for this compute-bound problem. This approach yielded time-to-solution scaling of 1.229^N and number of calls scaling of 1.187^N, whereas the best-known classical heuristic, memetic tabu search yielded a number of calls scaling of 1.35^N. It also performed similarly to true quantum methods, such as QAOA+QMF, with regards to scaling constant, and considerably better in terms of wall clock time. All LABS problems of size N≤66 were solved to optimality while directly handling higher order polynomials of the fourth order. Additionally, speed improvements of over 150,000x were demonstrated against both Gurobi and CPLEX."
+  },
+  {
+    "objectID": "conference_presentations.html#optimization-days-jopt-conference",
+    "href": "conference_presentations.html#optimization-days-jopt-conference",
+    "title": "Conferences",
+    "section": "",
+    "text": "Solving the Low Autocorrelation Binary Sequences (LABS) Problem using Quantum-Inspired Techniques\nThe Low Autocorrelation Binary Sequences (LABS) problem, also known as the Bernasconi model in statistical physics, is a classically intractable problem with many practical applications such as communications engineering, radar and sonar. The complexity of the LABS problem grows rapidly with optimal solutions only known for N≤66. In this work, a novel probabilistic quantum-inspired approach for this problem was formulated and solved. The Metropolis Hastings sampling algorithm was used in conjunction with Parallel Tempering facilitating exploration and exploitation of the state space. This work represents the first demonstration of a GPU accelerated solution to the LABS problem, creating a 1500% improvement in speed over a CPU only version. Low-level system design optimizations such as dynamic mixed precision allowed full device utilization for this compute-bound problem. This approach yielded time-to-solution scaling of 1.229^N and number of calls scaling of 1.187^N, whereas the best-known classical heuristic, memetic tabu search yielded a number of calls scaling of 1.35^N. It also performed similarly to true quantum methods, such as QAOA+QMF, with regards to scaling constant, and considerably better in terms of wall clock time. All LABS problems of size N≤66 were solved to optimality while directly handling higher order polynomials of the fourth order. Additionally, speed improvements of over 150,000x were demonstrated against both Gurobi and CPLEX."
   },
   {
     "objectID": "conference_presentations.html#montreal-network-science-workshop-2025",
     "href": "conference_presentations.html#montreal-network-science-workshop-2025",
-    "title": "Conference Presentations",
-    "section": "",
-    "text": "TitanQ, a Quantum-Inspired Approach for Solving NP-Hard Optimization Problems\nThis talk introduces InfinityQ’s TitanQ platform, a quantum-inspired approach for solving NP-Hard optimization problems. TitanQ leverages probabilistic Ising Machines, including techniques like Boltzmann Machines, to scale beyond 400,000 variables for mixed integer quadratic optimization. We will showcase its advantages through industrial and some academic applications. In finance, TitanQ achieves &gt;1000x speedup compared to Gurobi in Mixed Integer Quadratically Constrained Quadratic Problems (MIQCQP) for index tracking. In logistics, it solves constrained clustering problems of &gt;20,000 variables 100-1000x faster than Gurobi. Additionally, we present advancements in higher order binary optimization with TitanQ, achieving superior scaling (\\(1.25^N\\)) in the Low Autocorrelation Binary Sequences Problem, a notable academic challenge. These results highlight TitanQ’s industrial and academic breakthroughs."
+    "title": "Conferences",
+    "section": "Montreal Network Science Workshop 2025",
+    "text": "Montreal Network Science Workshop 2025\nTitanQ, a Quantum-Inspired Approach for Solving NP-Hard Optimization Problems\nThis talk introduces InfinityQ’s TitanQ platform, a quantum-inspired approach for solving NP-Hard optimization problems. TitanQ leverages probabilistic Ising Machines, including techniques like Boltzmann Machines, to scale beyond 400,000 variables for mixed integer quadratic optimization. We will showcase its advantages through industrial and some academic applications. In finance, TitanQ achieves &gt;1000x speedup compared to Gurobi in Mixed Integer Quadratically Constrained Quadratic Problems (MIQCQP) for index tracking. In logistics, it solves constrained clustering problems of &gt;20,000 variables 100-1000x faster than Gurobi. Additionally, we present advancements in higher order binary optimization with TitanQ, achieving superior scaling (\\(1.25^N\\)) in the Low Autocorrelation Binary Sequences Problem, a notable academic challenge. These results highlight TitanQ’s industrial and academic breakthroughs."
   },
   {
     "objectID": "conference_presentations.html#universidade-federal-da-paraíba-ufpb-invited-talk",
     "href": "conference_presentations.html#universidade-federal-da-paraíba-ufpb-invited-talk",
-    "title": "Conference Presentations",
+    "title": "Conferences",
     "section": "Universidade Federal da Paraíba (UFPB) Invited Talk",
     "text": "Universidade Federal da Paraíba (UFPB) Invited Talk\nQuantum-Inspired Solutions to Solving Combinatorial Optimization Problems\nQuantum computing has emerged as a promising paradigm for tackling combinatorial optimization problems that are intractable for classical computers. TitanQ is a SDK developed by InfinityQ Technology Inc. utilizing a variety of quantum-inspired algorithms to solve large optimization problems across a large variety of domains such as logistics, finance, energy, and the life sciences. These methods range from simulated annealing to more advanced variants such as parallel tempering and simulated quantum annealing. At their core, these algorithms leverage principles from statistics to address optimization problems as probabilistic models rather than deterministic ones. By interpreting hard optimization problems as sampling from complex distributions, we gain insights into their inherent complexities and devise more robust strategies for finding optimal solutions."
   },
   {
-    "objectID": "conference_presentations.html#optimization-days-jopt",
-    "href": "conference_presentations.html#optimization-days-jopt",
-    "title": "Conference Presentations",
-    "section": "2024 Optimization Days (JOPT)",
-    "text": "2024 Optimization Days (JOPT)\nQuantum-Inspired Methods for Clustering Large Datasets\nClustering is often applied throughout many different application areas, such as social networks and vehicle routing, to generate structure within datasets by grouping associated data points with strong similarity. However, most traditional clustering algorithms do not incorporate constraints that may arise in real world problems, while also using heuristics which can negatively impact cluster quality. A novel clustering algorithm is formulated and solved using quantum-inspired computing through the TitanQ platform to incorporate these constraint types, while directly solving the clustering problem via distance minimization. One example of a constraint is the generation of balanced clusters, where the number of nodes within each cluster is approximately equal. Quantum and quantum-inspired techniques, including mappings to Quadratic Unconstrained Binary Optimization (QUBO) formulations, are leveraged to solve large-scale problems. This provides the ability to potentially utilize next generation hardware to increase problem scale, solution quality, and solution speed. Native constraints are also included to enforce valid clustering solutions among the binary variables used to represent cluster assignments. This allows for increased algorithmic performance, with the addition of a novel compression scheme to induce memory improvement. Resulting clusters from the algorithm were also benchmarked against Lloyd’s algorithm on a dataset containing approximately 3000 data points."
+    "objectID": "conference_presentations.html#optimization-days-jopt-conference-1",
+    "href": "conference_presentations.html#optimization-days-jopt-conference-1",
+    "title": "Conferences",
+    "section": "2024 Optimization Days (JOPT) Conference",
+    "text": "2024 Optimization Days (JOPT) Conference\nQuantum-Inspired Methods for Clustering Large Datasets\nClustering is often applied throughout many different application areas, such as social networks and vehicle routing, to generate structure within datasets by grouping associated data points with strong similarity. However, most traditional clustering algorithms do not incorporate constraints that may arise in real world problems, while also using heuristics which can negatively impact cluster quality. A novel clustering algorithm is formulated and solved using quantum-inspired computing through the TitanQ platform to incorporate these constraint types, while directly solving the clustering problem via distance minimization. One example of a constraint is the generation of balanced clusters, where the number of nodes within each cluster is approximately equal. Quantum and quantum-inspired techniques, including mappings to Quadratic Unconstrained Binary Optimization (QUBO) formulations, are leveraged to solve large-scale problems. This provides the ability to potentially utilize next generation hardware to increase problem scale, solution quality, and solution speed. Native constraints are also included to enforce valid clustering solutions among the binary variables used to represent cluster assignments. This allows for increased algorithmic performance, with the addition of a novel compression scheme to induce memory improvement. Resulting clusters from the algorithm were also benchmarked against Lloyd’s algorithm on a dataset containing approximately 3000 data points."
   },
   {
     "objectID": "mit_driverless.html",
     "href": "mit_driverless.html",
     "title": "Autonomous Racing",
     "section": "",
-    "text": "MIT-PITT-RW is a collaboration between graduate and undergraduate students from the Massachusetts Institute of Technology (MIT), University of Pittsburgh, Rochester Institute of Technology (RIT), and the University of Waterloo. The team was formulated to program a race car to drive autonomously around the Indianapolis Motor Speedway as part of the Indy Autonomous Challenge. The team is divided into subteams focused on Perception, State Estimation, Path Planning, Controls, Vehicle Modeling, Integration, Simulation + Infrastructure, as well as Business + Operations. The race occurred on October 23, 2021 with over $1 Million USD awarded in prizes."
+    "text": "MIT-PITT-RW is a collaboration between graduate and undergraduate students from the Massachusetts Institute of Technology (MIT), University of Pittsburgh, Rochester Institute of Technology (RIT), and the University of Waterloo. The team was formulated to program a race car to drive autonomously around the Indianapolis Motor Speedway as part of the Indy Autonomous Challenge. The team is divided into subteams focused on Perception, State Estimation, Path Planning + Controls + Vehicle Modeling, Integration, Simulation + Infrastructure, as well as Business + Operations. The inaugural race occurred on October 23, 2021 with over $1 Million USD awarded in prizes.\n\n\n\n\n  \n  \n\n\n\n\n\nCBC News Article\nCITY News Article\nGlobal News Article\nCTV News Article"
   },
   {
     "objectID": "mit_driverless.html#indy-autonomous-challenge-2021",
     "href": "mit_driverless.html#indy-autonomous-challenge-2021",
     "title": "Autonomous Racing",
     "section": "",
-    "text": "MIT-PITT-RW is a collaboration between graduate and undergraduate students from the Massachusetts Institute of Technology (MIT), University of Pittsburgh, Rochester Institute of Technology (RIT), and the University of Waterloo. The team was formulated to program a race car to drive autonomously around the Indianapolis Motor Speedway as part of the Indy Autonomous Challenge. The team is divided into subteams focused on Perception, State Estimation, Path Planning, Controls, Vehicle Modeling, Integration, Simulation + Infrastructure, as well as Business + Operations. The race occurred on October 23, 2021 with over $1 Million USD awarded in prizes."
-  },
-  {
-    "objectID": "mit_driverless.html#select-news-articles",
-    "href": "mit_driverless.html#select-news-articles",
-    "title": "Autonomous Racing",
-    "section": "Select News Articles",
-    "text": "Select News Articles\n\nCBC News Article\nCITY News Article\nGlobal News Article\nCTV News Article"
+    "text": "MIT-PITT-RW is a collaboration between graduate and undergraduate students from the Massachusetts Institute of Technology (MIT), University of Pittsburgh, Rochester Institute of Technology (RIT), and the University of Waterloo. The team was formulated to program a race car to drive autonomously around the Indianapolis Motor Speedway as part of the Indy Autonomous Challenge. The team is divided into subteams focused on Perception, State Estimation, Path Planning + Controls + Vehicle Modeling, Integration, Simulation + Infrastructure, as well as Business + Operations. The inaugural race occurred on October 23, 2021 with over $1 Million USD awarded in prizes.\n\n\n\n\n  \n  \n\n\n\n\n\nCBC News Article\nCITY News Article\nGlobal News Article\nCTV News Article"
   },
   {
     "objectID": "mit_driverless.html#autonomous-challenge-at-ces-2022",
     "href": "mit_driverless.html#autonomous-challenge-at-ces-2022",
     "title": "Autonomous Racing",
-    "section": "Autonomous Challenge at CES 2022",
-    "text": "Autonomous Challenge at CES 2022\nMIT-PITT-RW was featured at the Consumer Electronics Show as part of the Autonomous Challenge @CES 2022. The event was focused on a multi-agent passing competition. The race occured on January 7, 2022 with $200,000 USD awarded in prizes."
+    "section": "Autonomous Challenge at CES (2022)",
+    "text": "Autonomous Challenge at CES (2022)\nMIT-PITT-RW was featured at the Consumer Electronics Show as part of the Autonomous Challenge @CES 2022. The event was focused on a multi-agent passing competition. It occurred on January 7, 2022 with $200,000 USD awarded in prizes."
   },
   {
-    "objectID": "mit_driverless.html#texas-motor-speedway-2022",
-    "href": "mit_driverless.html#texas-motor-speedway-2022",
+    "objectID": "mit_driverless.html#indy-autonomous-challenge-at-texas-motor-speedway-2022",
+    "href": "mit_driverless.html#indy-autonomous-challenge-at-texas-motor-speedway-2022",
     "title": "Autonomous Racing",
-    "section": "Texas Motor Speedway 2022",
-    "text": "Texas Motor Speedway 2022\nA third race from the Indy Autonomous Challenge occurred on November 11, 2022 at the Texas Motor Speedway."
+    "section": "Indy Autonomous Challenge at Texas Motor Speedway (2022)",
+    "text": "Indy Autonomous Challenge at Texas Motor Speedway (2022)\nA third race from the Indy Autonomous Challenge occurred on November 11, 2022 at the Texas Motor Speedway. Many new members were trained and onboarded in preparation for this event."
   },
   {
     "objectID": "mit_driverless.html#autonomous-challenge-at-ces-2023",
     "href": "mit_driverless.html#autonomous-challenge-at-ces-2023",
     "title": "Autonomous Racing",
-    "section": "Autonomous Challenge at CES 2023",
-    "text": "Autonomous Challenge at CES 2023\nThe Autonomous Challenge @CES 2023 occured on January 7, 2023. MIT-PITT-RW finished 4th place in the event, which was a multi-agent passing competition between cars, similar to the CES 2022 event."
+    "section": "Autonomous Challenge at CES (2023)",
+    "text": "Autonomous Challenge at CES (2023)\nThe Autonomous Challenge @CES 2023 occured on January 7, 2023. MIT-PITT-RW finished 4th place in the event, which was a multi-agent passing competition between cars, similar to the CES 2022 event."
   },
   {
     "objectID": "mit_driverless.html#autodromo-nazionale-monza-2023",
     "href": "mit_driverless.html#autodromo-nazionale-monza-2023",
     "title": "Autonomous Racing",
-    "section": "Autodromo Nazionale Monza 2023",
-    "text": "Autodromo Nazionale Monza 2023\nThe Indy Autonomous Challenge was featured as part of the Milano Monza Motor Show (MIMO 2023) in Monza, Italy throughout June 16-18, 2023."
+    "section": "Autodromo Nazionale Monza (2023)",
+    "text": "Autodromo Nazionale Monza (2023)\nThe Indy Autonomous Challenge was featured as part of the Milano Monza Motor Show (MIMO 2023) in Monza, Italy throughout June 16-18, 2023. This was the first race that occurred outside of the US."
   },
   {
     "objectID": "mit_driverless.html#autonomous-challenge-at-ces-2024",
     "href": "mit_driverless.html#autonomous-challenge-at-ces-2024",
     "title": "Autonomous Racing",
-    "section": "Autonomous Challenge at CES 2024",
-    "text": "Autonomous Challenge at CES 2024\nI was no longer able to compete in the Indy Autonomous Challenge as I had graduated the year prior and was no longer a student. However, the competition organizers invited me back as a booth presenter for the competition held at CES 2024."
+    "section": "Autonomous Challenge at CES (2024)",
+    "text": "Autonomous Challenge at CES (2024)\nBrian retired from participating as a competitor in the Indy Autonomous Challenge as he had graduated in 2023 and was no longer a student. However, he was invited back by the competition organizers to volunteer as a booth presenter for the competition held at CES 2024."
   },
   {
-    "objectID": "mit_driverless.html#university-of-waterloo-articles",
-    "href": "mit_driverless.html#university-of-waterloo-articles",
+    "objectID": "mit_driverless.html#university-of-waterloo-articles-2021---2023",
+    "href": "mit_driverless.html#university-of-waterloo-articles-2021---2023",
     "title": "Autonomous Racing",
-    "section": "University of Waterloo Articles",
-    "text": "University of Waterloo Articles\n\nSpeeding Into History\nOvercoming History\nMaking a Comeback\nClocking a Personal Best\nAutonomous Racing Team Achieves Personal Best in Italian Race"
+    "section": "University of Waterloo Articles (2021 - 2023)",
+    "text": "University of Waterloo Articles (2021 - 2023)\n\n\nSpeeding Into History\nOvercoming History\nMaking a Comeback\nClocking a Personal Best\nAutonomous Racing Team Achieves Personal Best in Italian Race"
   }
 ]

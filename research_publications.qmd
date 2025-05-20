@@ -1,5 +1,5 @@
 ---
-title: "Research Publications"
+title: "Research"
 ---
 
 ## [**Fast and Modular Autonomy Software for Autonomous Racing Vehicles**](https://ieeexplore.ieee.org/document/10876003)
@@ -25,7 +25,10 @@ Vehicle motion control systems are present on commercial vehicles to improve saf
 Two fundamentally different machine learning-based methods for road surface classification. The first is an artificial neural network that provides a global function approximation of the underlying dynamics. In particular, Long Short-Term Memory (LSTM) units are used to capture temporal relationships within the training data and to mitigate the vanishing gradient problem. The second is an instance-based learning method referred to as Nadaraya-Watson Kernel Regression, where local function approximations are generated around the input data.
 
 ::: {style="text-align: center;"}
-<img src="images/Classification Schemes.png" alt="Classification Schemes" width="600"/>
+<img src="images/Classification Schemes.png" alt="Classification Schemes" width="80%/"/>
+
+<img src="images/carsim_merged.png" alt="Road Surfaces" width="80%/"/>
 :::
 
-<img src="images/Ice.png" alt="Ice" width="220"/> <img src="images/Wet.png" alt="Wet" width="220"/> <img src="images/Dry.png" alt="Dry" width="206"/>
+
+
